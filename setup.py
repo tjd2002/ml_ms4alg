@@ -26,10 +26,10 @@ setuptools.setup(
         'pybind11',
         'isosplit5',
         'numpy',
-        'mountainlab_pytools',
+#        'mountainlab_pytools',
         'h5py',
         'sklearn',
-#        'spikeextractors'
+        'spikeextractors'
     ],
     classifiers=(
         "Programming Language :: Python :: 3",

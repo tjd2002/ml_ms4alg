@@ -1,6 +1,6 @@
 import numpy as np
 import isosplit5
-from mountainlab_pytools import mdaio
+from spikeextractors import mdaio
 import sys
 import os
 import multiprocessing
